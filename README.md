@@ -9,7 +9,7 @@ This project was developed as an end-semester control systems project to demonst
 
 ## Project Overview
 
-The goal of this project is to stabilize a drone or balancing rig on a **single axis** using a PID controller.  
+The goal of this project is to stabilize a drone on a **single axis** using a PID controller.  
 The Arduino reads motion data from the MPU6050 sensor, estimates the angle, computes the control error, and updates the motor PWM signals accordingly.
 
 The repository includes:
